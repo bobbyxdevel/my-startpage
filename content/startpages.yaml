@@ -13,8 +13,8 @@
               url: https://duckduckgo.com/
             - !Link
               ico: <i class="fa-solid fa-magnifying-glass"></i>
-              lbl: Google Search
-              url: https://www.google.com/
+              lbl: Perplexity
+              url: https://www.perplexity.ai/
         - name: Tools
           rows:
             - !Link
