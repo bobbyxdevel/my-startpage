@@ -173,10 +173,6 @@
               lbl: Twitch
               url: https://www.twitch.tv/
             - !Link
-              ico: <i class="fa-brands fa-tiktok"></i>
-              lbl: TikTok
-              url: https://www.tiktok.com/
-            - !Link
               ico: <i class="fa-brands fa-instagram"></i>
               lbl: Instagram
               url: https://www.instagram.com/
